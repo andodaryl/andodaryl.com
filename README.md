@@ -1,21 +1,21 @@
-# Codefolio
-An open-source portfolio for developers to showcase their projects, coding skills, and personal story.
+# Personal Site
 
-## Quick Start
+This is AstroJS delivered through Cloudflare CDN.
+Auto deployed CI/CD whenever this repository is updated.
 
-```bash
-npm create astro@latest -- --template danielunited/codefolio
+## Source
 
-# Follow the interactive prompts to create your project
+AstroJS Theme from:
+https://github.com/danielunited/codefolio
 
-cd <your-project-name>
-npm run dev     # Starts the local development server at http://localhost:4321
-```
+## Method
 
-## Deployment
-The current branch can be fully static built and deployed on any static hosting platform.
+Will outline method for uploading static sites through Cloudflare.
 
-For deployment methods on various platforms, refer to the [Astro Official Deployment Guide](https://docs.astro.build/en/guides/deploy/).
+## Content
+
+Content presented are sample only.
+Will upload personal projects soon.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
