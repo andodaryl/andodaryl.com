@@ -1,0 +1,64 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
+
+# Build output
+dist/
+.astro/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Temporary files
+.cache/
+tmp/
+temp/
+
+# Optional npm cache directory
+.npm
+
+# Optional PNPM cache
+.pnpm-store/
+
+# Optional Bun cache
+.bun
+
+# Astro-specific
+.astro/
+
+# Testing
+coverage/
+.nyc_output/
+
+# Local development
+.env.development.local
+.env.test.local
+.env.production.local
+
